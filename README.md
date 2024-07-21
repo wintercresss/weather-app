@@ -1,4 +1,4 @@
 # weather-app
 Weather app using HTML, CSS, and JavaScript
 
-[Demo:](https://wintercresss.github.io/weather-app/)
+[Demo](https://wintercresss.github.io/weather-app/)
