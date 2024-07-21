@@ -3,4 +3,4 @@ Weather app using HTML, CSS, and JavaScript
 
 [Demo](https://wintercresss.github.io/weather-app/)
 
-<img width="454" alt="image" src="https://github.com/user-attachments/assets/5ac94cfd-c6e8-40b8-8750-a4dc99bca2b4">
+<img width="496" alt="image" src="https://github.com/user-attachments/assets/b2f73ece-83f9-4c62-b534-afa81bb65470">
